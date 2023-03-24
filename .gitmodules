@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BoSSA"]
+	path = BoSSA
+	url = https://github.com/cran/BoSSA
+	shallow = true
+	registered = true
